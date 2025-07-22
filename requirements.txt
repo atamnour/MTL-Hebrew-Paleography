@@ -1,0 +1,13 @@
+torch>=2.2.0
+torchvision
+timm
+albumentations
+pandas
+numpy
+scikit‑learn
+opencv‑python
+tqdm
+matplotlib
+pytest
+black
+flake8
