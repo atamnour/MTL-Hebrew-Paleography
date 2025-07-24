@@ -1,10 +1,11 @@
 # MTL‑Hebrew‑Paleography
 
-![Model Banner](docs/figures/mtl_architecture_banner.png)
-
 [![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://arxiv.org/abs/xxx)
 [![MTL](https://img.shields.io/badge/MMTL-GitHub-black?logo=github)](https://github.com/AI-Computer-Vision-BGU/MMTL)
 [![Demo](https://img.shields.io/badge/Demo-YouTube-red.svg)](https://youtu.be/your-video)
+
+![Model Banner](docs/figures/mtl_architecture_banner.png)
+
 
 > **Code & data for the ICDAR 2025 paper:**
 > *Multi‑Task Learning for Hebrew Paleography: Script Classification and Date Estimation*
