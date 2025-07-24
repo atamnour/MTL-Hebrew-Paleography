@@ -2,7 +2,7 @@
 
 > **VML‑MHS Dataset card** (README + download link)
 
-![Banner](../figures/vml_mhs_banner.png)
+![Banner](figures/vml_mhs_banner.png)
 
 ## 1  Overview
 
