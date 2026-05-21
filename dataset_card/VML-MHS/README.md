@@ -65,7 +65,7 @@ The six main script types are:
 The following examples show representative patches from different Hebrew script types and modes in the VML-MHS dataset.
 
 <p align="center">
-  <img src="figures/vml_mhs_samples.png" alt="VML-MHS dataset samples" width="90%">
+  <img src="figures/vml_mhs_banner.png" alt="VML-MHS dataset samples" width="90%">
 </p>
 
 ---

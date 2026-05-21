@@ -36,17 +36,21 @@ The framework uses a shared visual backbone with task-specific heads for script 
 
 ## Dataset
 
-The project uses the **VML-MHS** dataset, a medieval Hebrew manuscript dataset annotated with script type, script mode, and production year.
+The project uses the **VML-MHS** dataset.
+
+- [Dataset Download - Google Drive][dataset-drive]
+- [Dataset Card](dataset_card/README.md)
 
 | Item | Count |
 |---|---:|
 | Manuscripts | 2,304 |
 | Pages | 3,687 |
-| Patches | 346,178 |
+| Patches | 346k+ |
 | Time span | 850–1540 CE |
 
-After downloading the dataset, update the dataset paths inside the relevant scripts according to your local machine.
-
+<p align="center">
+  <img src="dataset_card/figures/vml_mhs_banner.png" alt="VML-MHS dataset samples" width="85%">
+</p>
 
 ---
 ## Model Architecture
