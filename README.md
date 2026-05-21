@@ -47,14 +47,12 @@ The project uses the **VML-MHS** dataset, a medieval Hebrew manuscript dataset a
 
 After downloading the dataset, update the dataset paths inside the relevant scripts according to your local machine.
 
+
 ---
 ## Model Architecture
 
 The proposed model follows a multi-task learning design with a shared visual backbone and two task-specific heads.
 
-<p align="center">
-  <img src="docs/figures/mtl_architecture_banner.png" alt="Multi-task learning architecture" width="90%">
-</p>
 
 The architecture contains:
 
