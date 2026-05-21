@@ -1,10 +1,13 @@
 # MTL-Hebrew-Paleography
 
-[![Paper](https://img.shields.io/badge/Paper-Springer-blue.svg)](https://link.springer.com/chapter/10.1007/978-3-032-04630-7_5)
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://d1wqtxts1xzle7.cloudfront.net/125681828/978_3_032_04630_7_5-libre.pdf?1765299456=&response-content-disposition=inline%3B+filename%3DMulti_task_Learning_for_Hebrew_Paleograp.pdf&Expires=1779407119&Signature=XYIcFv75ax7zJ7Fl3wbVHDpIlTXN8VYH5KRRptVZW2xpEB8wUlb3BgGIENNpZYBBxX0H3gxT5wZwec~WTxNZV~1u8yfDAhZERoima93nhqCd5DZbv6r36aOvEo3AJYn16NVpYXuRDN9qsfyeU2gtsXu~e55LOAKbCbAOM9gefzGE4YRqVMtpx60~4rs4kbbT78fx9Y~2haFWfDbFFDqO1qVlfkmKL0O3KDtx8DdSUjOVggPbYSQsTOXSGpARQRVHURYJEGMCgzxxSZ3-5XCbRhYHOcyMmbdhy~MT6EkwLMMHst8-o8nDiUqtrusgL3OWnENdvmZLVKWRQsmk~oULpA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-green.svg)](https://drive.google.com/drive/folders/1goFULTOaANfCDzdk5p2jWa1sJoKnICiu?usp=sharing)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/atamnour/MTL-Hebrew-Paleography)
-[![Dataset](https://img.shields.io/badge/Dataset-VML--MHS-green.svg)](https://github.com/atamnour/MTL-Hebrew-Paleography/tree/main/dataset_card/VML-MHS)
 
 Official code for the ICDAR 2025 paper:
+
+**Multi-task Learning for Hebrew Paleography: Script Classification and Date Estimation**cial code for the ICDAR 2025 paper:
 
 **Multi-task Learning for Hebrew Paleography: Script Classification and Date Estimation**
 
