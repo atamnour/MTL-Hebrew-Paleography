@@ -49,7 +49,7 @@ The project uses the **VML-MHS** dataset.
 | Time span | 850–1540 CE |
 
 <p align="center">
-  <img src="dataset_card/figures/vml_mhs_banner.png" alt="VML-MHS dataset samples" width="85%">
+  <img src="dataset_card/VML-MHS/figures/vml_mhs_banner.png" alt="VML-MHS dataset samples" width="85%">
 </p>
 
 ---
