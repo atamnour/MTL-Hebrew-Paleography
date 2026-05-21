@@ -60,6 +60,16 @@ The six main script types are:
 
 ---
 
+## Example Images
+
+The following examples show representative patches from different Hebrew script types and modes in the VML-MHS dataset.
+
+<p align="center">
+  <img src="figures/vml_mhs_samples.png" alt="VML-MHS dataset samples" width="90%">
+</p>
+
+---
+
 ## Annotation Format
 
 Each manuscript is organized using the following metadata:
